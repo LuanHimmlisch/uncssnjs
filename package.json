@@ -1,0 +1,17 @@
+{
+  "name": "uncssnjs",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "uncssnjs": "index.js"
+  },
+  "scripts": {},
+  "author": "Luan Himmlisch <luan@himmlisch.com.mx>",
+  "license": "ISC",
+  "dependencies": {
+    "node-html-parser": "^6.1.1",
+    "uncss": "^0.17.3"
+  }
+}
